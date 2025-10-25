@@ -1,1 +1,1 @@
-# Winisnap
+# Minisnap
